@@ -1,3 +1,11 @@
+## Deployed on 
+
+(https://chain-7dxs-git-main-anmolkpandey06.vercel.app/)
+ 
+ Install Metamask with goerli testnet.
+
+
+
 ## About Smart Contract
 
 This Project is deployed on the Goerli testnet
