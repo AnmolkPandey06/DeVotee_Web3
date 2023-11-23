@@ -18,7 +18,7 @@ const Navigation = () => {
           <Button component={Link} to="/home" sx={{ marginRight: 2 }} color="inherit">
             Home
           </Button>
-          <Button component={Link} to="/profile" sx={{ marginRight: 2 }} color="inherit">
+          <Button component={Link} to="/" sx={{ marginRight: 2 }} color="inherit">
             Your Profile
           </Button>
           <Button component={Link} to="/candidature" sx={{ marginRight: 2 }} color="inherit">

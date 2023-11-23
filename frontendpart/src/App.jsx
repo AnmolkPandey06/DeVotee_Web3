@@ -80,7 +80,7 @@ function App() {
     <BrowserRouter>
     <Routes>
       <Route path="/home" element={<Home state={state} account={account}/>} />
-      <Route path="/profile" element={<Profile state={state} account={account}/>} />
+      <Route path="/" element={<Profile state={state} account={account}/>} />
       <Route path="/candidature" element={<Candidature state={state} account={account}/>} />
       <Route path="/createElection" element={<CreateElection state={state} account={account}/>} />
 
